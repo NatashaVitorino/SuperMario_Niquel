@@ -1,0 +1,10 @@
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\bin\Debug\marioNiquel.exe.config
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\bin\Debug\marioNiquel.exe
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\bin\Debug\marioNiquel.pdb
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\obj\Debug\marioNiquel.csprojAssemblyReference.cache
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\obj\Debug\marioNiquel.Form1.resources
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\obj\Debug\marioNiquel.Properties.Resources.resources
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\obj\Debug\marioNiquel.csproj.GenerateResource.cache
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\obj\Debug\marioNiquel.csproj.CoreCompileInputs.cache
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\obj\Debug\marioNiquel.exe
+C:\Users\Ryuga Banjou\source\repos\marioNiquel\marioNiquel\obj\Debug\marioNiquel.pdb
